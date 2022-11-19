@@ -1,4 +1,4 @@
-# SingingBowlStudio
+# Singing Bowl Studio
 
 # Privacy Policy 
 
