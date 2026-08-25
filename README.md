@@ -1,104 +1,113 @@
 # Singing Bowl Studio
 
-# Privacy Policy 
+## Privacy Policy
 
-Conner Tate built the Singing Bowl Studio app as an Ad Supported app. This SERVICE is provided by Conner Tate at no cost and is intended for use as is.
+_Last updated: 25 August 2026_
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+Singing Bowl Studio is made by one person. It exists to play sounds, not to learn anything about
+you.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+There is no account, no sign-in, no advertising, no analytics, and no tracking. The app does not
+build a profile of you, and it has no server of its own for anything to be sent to.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Singing Bowl Studio unless otherwise defined in this Privacy Policy.
+---
 
-**Information Collection and Use**
+## What stays on your device
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+Your settings are saved on your device using the system's standard preferences and are never
+transmitted anywhere:
 
-The app does use third-party services that may collect information used to identify you.
+- your bowl and ambience volume levels
+- which ambience layer you last chose
+- whether you have seen the welcome screens
+- whether you have been asked to leave a review
 
-Link to the privacy policy of third-party service providers used by the app
+All audio ships inside the app itself. Playback needs no internet connection, and nothing about
+what you listen to, or for how long, is recorded or reported.
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+The app tells iOS what is currently playing so that the Lock Screen and Control Center can show
+it and offer play and pause. That is handled entirely by the system on your device.
 
-**Log Data**
+---
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+## Purchases
 
-**Cookies**
+Singing Bowl Studio offers an optional one-time purchase and an optional annual subscription.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+**Payment is handled entirely by Apple.** The app never sees your name, your email address, your
+payment details, or your Apple Account.
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+### RevenueCat
 
-**Service Providers**
+To keep a purchase working across your devices and to restore it after a reinstall, the app uses
+[RevenueCat](https://www.revenuecat.com), a subscription-management service. RevenueCat receives:
 
-I may employ third-party companies and individuals due to the following reasons:
+- **An anonymous identifier** that RevenueCat generates for the installation. It is not your name,
+  your email address, or your Apple Account, and it is not linked to your identity.
+- **Your App Store receipt**, which records which products were purchased and whether a
+  subscription is currently active.
+- **The last time the app was used**, and your **device type and operating system version**.
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+This app uses RevenueCat's default configuration, which does not collect personally identifying
+information — no names, no email addresses, and no IP addresses. RevenueCat acts as a service
+provider processing this on my behalf. It is not sold, and it is not used for advertising or for
+tracking you across other apps.
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+In the App Store this is declared as **Purchases**, not linked to your identity and not used for
+tracking. RevenueCat's own privacy policy is at <https://www.revenuecat.com/privacy>.
 
-**Security**
+### Which version you first downloaded
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+The app asks Apple which version of Singing Bowl Studio your Apple Account originally downloaded.
+This is how people who had the app before the paid upgrade existed keep the sounds they already
+had, even after reinstalling or moving to a new device.
 
-**Links to Other Sites**
+That answer is used on your device and is not sent anywhere.
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+---
 
-**Children’s Privacy**
+## What is never collected
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+To be explicit, because generic privacy policies often claim otherwise:
 
-**Changes to This Privacy Policy**
+- No advertising, and no advertising identifiers
+- No analytics or crash-reporting service
+- No location data
+- No contacts, photos, microphone, or camera access
+- No cookies or web tracking
+- No third-party trackers of any kind
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+Nothing is sold or shared with data brokers. The app does not ask for permission to track you,
+because it does not track you.
 
-This policy is effective as of 2022-11-19
+---
 
-**Contact Us**
+## Children
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at connertate8@gmail.com.
+The app collects nothing, so it collects nothing from children either. It is suitable for all
+ages.
 
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+---
 
-# Terms & Conditions
+## Your choices
 
-By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to Conner Tate.
+Because there is no account and no server-side profile, there is nothing to log into or delete
+remotely. Deleting the app removes everything stored on your device.
 
-Conner Tate is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
+If you would like the purchase record RevenueCat holds for your installation deleted, write to me
+and I will delete it — that clears everything associated with it. Note that this may prevent a
+past purchase from being restored afterwards, since restoring depends on that record.
 
-The Singing Bowl Studio app stores and processes personal data that you have provided to us, to provide my Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the Singing Bowl Studio app won’t work properly or at all.
+---
 
-The app does use third-party services that declare their Terms and Conditions.
+## Changes to this policy
 
-Link to Terms and Conditions of third-party service providers used by the app
+If this policy changes, the date at the top will change with it. Meaningful changes will be noted
+in the app's release notes.
 
-*   [Google Play Services](https://policies.google.com/terms)
-*   [AdMob](https://developers.google.com/admob/terms)
+---
 
-You should be aware that there are certain things that Conner Tate will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but Conner Tate cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
+## Contact
 
-If you’re using the app outside of an area with Wi-Fi, you should remember that the terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third-party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
-
-Along the same lines, Conner Tate cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Conner Tate cannot accept responsibility.
-
-With respect to Conner Tate’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavor to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Conner Tate accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
-
-At some point, we may wish to update the app. The app is currently available on iOS – the requirements for the system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Conner Tate does not promise that it will always update the app so that it is relevant to you and/or works with the iOS version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
-
-**Changes to This Terms and Conditions**
-
-I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
-
-These terms and conditions are effective as of 2022-11-19
-
-**Contact Us**
-
-If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at connertate8@gmail.com.
-
-This Terms and Conditions page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+Questions, or anything here that looks wrong, please write to
+[tatetechdev@gmail.com](mailto:tatetechdev@gmail.com).
